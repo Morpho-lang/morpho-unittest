@@ -6,7 +6,7 @@ This package provides a UnitTest class that simplifies the creation of test suit
 
 To install the package clone this repository onto your computer in any convenient place:
 
-    git clone https://github.com/morpho-lang/morpho-moviemaker.git
+    git clone https://github.com/morpho-lang/morpho-unittest.git
 
 then add the location of this repository to your .morphopackages file.
 
